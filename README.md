@@ -14,5 +14,6 @@ I'll upload my DP solutions here
 - 18th Jan - LCS Top Down Approach, Leetcode 1143 //Best Solution
 - 19th Jan - 0-1 Knapsack Problem, Geeks for Geeks - Recursive Approach (Time limit Exceed)
 - 19th Jan - 0-1 Knapsack problem, Bottom up approach (693/1200 test cases passed)
-- 20th Jan Subset Sum
-- 20th Jan Partition Sum
+- 20th Jan - Subset Sum
+- 20th Jan - Partition Sum
+- 30th Jan - Target Sum, Leetcode 494

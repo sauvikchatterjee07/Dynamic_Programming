@@ -19,3 +19,4 @@ I'll upload my DP solutions here
 - 30th Jan - Target Sum, Leetcode 494
 - 31st Jan - Coin Change 2, Leetcode 518
 - 31st Jan - Coin Change, Leetcode 322
+- 1st Feb - Print LCS

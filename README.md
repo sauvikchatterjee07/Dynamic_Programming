@@ -20,3 +20,4 @@ I'll upload my DP solutions here
 - 31st Jan - Coin Change 2, Leetcode 518
 - 31st Jan - Coin Change, Leetcode 322
 - 1st Feb - Print LCS
+- 1st Feb - Shortest Common Supersequence, Leetcode 1092

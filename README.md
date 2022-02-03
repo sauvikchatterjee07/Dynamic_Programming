@@ -23,3 +23,4 @@ I'll upload my DP solutions here
 - 1st Feb - Shortest Common Supersequence, Leetcode 1092
 - 3rd Feb - Delete Operation for Two Strings, Leetcode 583
 - 3rd Feb - Longest Palindromic Subsequence, Leetcode 516
+- 3rd Feb - Minimum Insertion Steps to Make a String Palindrome, Leetcode 1312

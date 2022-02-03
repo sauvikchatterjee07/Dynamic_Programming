@@ -22,3 +22,4 @@ I'll upload my DP solutions here
 - 1st Feb - Print LCS
 - 1st Feb - Shortest Common Supersequence, Leetcode 1092
 - 3rd Feb - Delete Operation for Two Strings, Leetcode 583
+- 3rd Feb - Longest Palindromic Subsequence, Leetcode 516
